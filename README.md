@@ -1,0 +1,4 @@
+jam
+===
+
+Small JavaScript library.
